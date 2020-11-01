@@ -13,4 +13,4 @@ Here is The Problem
 2. Download the file code.Rmd
 3. Open the file with Rstudio
 4. click on "knit to PDF"
-5. You will the same file as "result.pdf" as given in this repo
+5. You will the same file as "HPD.pdf" as given in this repo
